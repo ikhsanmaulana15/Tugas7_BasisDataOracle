@@ -19,12 +19,51 @@
        Disini kita membuat fungsi update pada masing-masing tabel master yaitu Petugas, Pelanggan, 
        Jenis_Barang, dan Barang. 
        1. Pertama-tama kita buat terlebih dahulu tampilan form Edit pada masing-masing data master seperti berikut :
-       2. Setelah itu, buat query untuk edit pada masing-masing data master
-       3. Setelah itu, kita tinggal testing 
        
-<img src= "https://user-images.githubusercontent.com/45529723/147112858-9beb03eb-5f0f-41f6-91c7-3c3f963373fe.PNG" />
+-------------------------------------------------------------------------------------------       
+       Tampilan Edit Petugas
+   <img src= "https://user-images.githubusercontent.com/45529723/147941361-b4bd8d35-7b23-4a36-9122-ecb219310c68.PNG" />
+       
+       Tampilan Jenis_Barang
+   <img src= "https://user-images.githubusercontent.com/45529723/147941372-936778e9-7038-44da-978b-ce98c06018e8.PNG" />
+       
+       Tampilan Edit Pelanggan
+   <img src= "https://user-images.githubusercontent.com/45529723/147941378-86bfe943-7bdb-40e7-a086-7f0df84a0890.PNG" />
+       
+       Tampilan Barang
+   <img src= "https://user-images.githubusercontent.com/45529723/147941383-a4f1cb4f-c15d-4255-9189-7a8cb1ff6d6f.PNG" />
+       
+-------------------------------------------------------------------------------------------      
+       2. Setelah itu, buat query untuk edit pada masing-masing data master
+       
+       Query update petugas
+ <img src= "https://user-images.githubusercontent.com/45529723/147941367-bfeab021-fbbd-451b-96f7-0fd56367b446.PNG" /> 
+ 
+       Query update jenis barang
+ <img src= "https://user-images.githubusercontent.com/45529723/147941374-4b902dc4-a70a-4085-8249-d0c68ed1459e.PNG" />
+ 
+       Query update pelanggan
+ <img src= "https://user-images.githubusercontent.com/45529723/147941380-9385a817-3ad2-4829-8ae9-d44465c928b7.PNG" />
+       
+       Query update barang
+ <img src= "https://user-images.githubusercontent.com/45529723/147941385-6f4002a2-25d5-445c-9314-bbbd0684c50c.PNG" />
+ 
+ 
+ -------------------------------------------------------------------------------------------      
+       3. Setelah itu, kita tinggal testing pada masing-masing data master
+          Disini saya akan mencontohkan untuk edit data pelanggan dengan kode pelanggan N011.
+          
+          Data sebelum diupdate :
+ <img src= "https://user-images.githubusercontent.com/45529723/147943339-928b78dc-16ea-47b0-a997-f209aa41358d.PNG" />          
+          
+          Data proses update :
+ <img src= "https://user-images.githubusercontent.com/45529723/147943347-cb731817-4a9d-4f88-b7a8-7eae050d853d.PNG" />         
+          
+          Data after update :
+<img src= "https://user-images.githubusercontent.com/45529723/147943350-1e949c65-ad04-4e2e-b450-1123f0725e70.PNG" />
 
 
+       4. Selesai, kita telah berhasil untuk membuat fungsi update
 -------------------------------------------------------------------------------------------
 ##  2. Buat Githhub projek baru tugas 7 dan upload
        Untuk screenshoot dan penjelasan sudah saya buat di README pada github. Terima Kasih
