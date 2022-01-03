@@ -1,10 +1,9 @@
-## TUGAS 6 BASIS DATA ORACLE
+## TUGAS 7 BASIS DATA ORACLE
 
    Pada kesempatan kali ini saya akan menjawab beberapa poin atau soal berikut ini :
-   1.	Buat trigger
-   2.	Buat insert data sama delete di masing2 table master
-   3.	Buat Githhub projek baru tugas 6 dan upload
-   4. Kumpulkan di form
+   1. Buat update dan transaksi
+   2. Buat Githhub projek baru tugas 7 dan upload
+   3. Kumpulkan di form
  
    **Untuk poin 3 & 4 sudah langsung terjawab dengan adanya github penjelasan ini.**
    
