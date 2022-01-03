@@ -64,6 +64,10 @@
 
 
        4. Selesai, kita telah berhasil untuk membuat fungsi update
+       
+-------------------------------------------------------------------------------------------       
+    B. Pembuatan transaksi
+    
 -------------------------------------------------------------------------------------------
 ##  2. Buat Githhub projek baru tugas 7 dan upload
        Untuk screenshoot dan penjelasan sudah saya buat di README pada github. Terima Kasih
