@@ -70,9 +70,17 @@
        Untuk pembuatan transaksi hampir sama dengan data master dimana nantinya kita dapat melakukan
        proses CRUD.
        1. Tampilan Data Transaksi
+ <img src= "https://user-images.githubusercontent.com/45529723/148083065-4dee38ba-fb10-4fba-b477-ec23a8609a1a.PNG" />    
+       
        2. Tampilan Insert Data Transaksi
+ <img src= "https://user-images.githubusercontent.com/45529723/148083093-38896d5a-9981-4b5b-a12f-55a6c99f607e.PNG" />
+       
+       
        3. Tampilan Delete Data Transaksi
-    
+ <img src= "https://user-images.githubusercontent.com/45529723/148083100-60eb345d-77c6-4210-84e5-3a02a813a43e.PNG" />
+ <img src= "https://user-images.githubusercontent.com/45529723/148083106-7adcac7d-1573-478d-bacf-17ce972e937a.PNG" />
+ 
+       4. Selesai, untuk tampilan detail transaksi/laporan, ditampilkan di UAS.
 -------------------------------------------------------------------------------------------
 ##  2. Buat Githhub projek baru tugas 7 dan upload
        Untuk screenshoot dan penjelasan sudah saya buat di README pada github. Terima Kasih
