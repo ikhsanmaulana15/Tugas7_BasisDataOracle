@@ -70,7 +70,8 @@
        Untuk pembuatan transaksi hampir sama dengan data master dimana nantinya kita dapat melakukan
        proses CRUD.
        1. Tampilan Data Transaksi
-       2. Insert Data Transaksi
+       2. Tampilan Insert Data Transaksi
+       3. Tampilan Delete Data Transaksi
     
 -------------------------------------------------------------------------------------------
 ##  2. Buat Githhub projek baru tugas 7 dan upload
