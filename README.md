@@ -73,8 +73,10 @@
  <img src= "https://user-images.githubusercontent.com/45529723/148083065-4dee38ba-fb10-4fba-b477-ec23a8609a1a.PNG" />    
        
        2. Tampilan Insert Data Transaksi
- <img src= "https://user-images.githubusercontent.com/45529723/148083093-38896d5a-9981-4b5b-a12f-55a6c99f607e.PNG" />
-       
+ <img src= "https://user-images.githubusercontent.com/45529723/148087967-ca99c0d8-6bcf-416a-bc16-c830b284b7ef.PNG" />
+ 
+          Hasilnya :
+ <img src= "https://user-images.githubusercontent.com/45529723/148087987-ce53f93a-20f5-4e02-88aa-f17c48849e2e.PNG" />
        
        3. Tampilan Delete Data Transaksi
  <img src= "https://user-images.githubusercontent.com/45529723/148083100-60eb345d-77c6-4210-84e5-3a02a813a43e.PNG" />
